@@ -43,9 +43,9 @@
 ### 🌐 Let's Connect:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ali.javed.hamza@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-hamza-dignodev)
+[![Twitter/X](https://img.shields.io/badge/𝕏-black.svg?)](https://x.com/ch_alihumza)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/malevolent.hamza)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/alie.humza/)
-[![Twitter/X](https://img.shields.io/badge/𝕏-black.svg?)](https://x.com/ch_alihumza)
 
 
 [![](https://visitcount.itsvg.in/api?id=alihamzza04&icon=0&color=0)](https://visitcount.itsvg.in)
