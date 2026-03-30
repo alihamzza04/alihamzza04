@@ -1,10 +1,10 @@
 # 👋🏻 Hi, I'm Ali Hamza
 
-Rust 🦀 and Blockchain Developer passionate about building secure, decentralized systems. I focus on writing clean, efficient **Rust** code for Solana smart contracts using the Anchor framework. I enjoy solving complex problems in on-chain program design, security auditing, and Web3 integration. Always learning, always building.<br>
+**Rust and Blockchain Developer** passionate about building secure, decentralized systems. I focus on writing clean, efficient Rust code for Solana smart contracts using the Anchor framework. I enjoy solving complex problems in on-chain program design, security auditing, and Web3 integration. Always learning, always building.<br>
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ### 👨🏻‍💻 Languages & Core
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -40,7 +40,7 @@ Rust 🦀 and Blockchain Developer passionate about building secure, decentraliz
 
 ---
 
-## 🌐 Let's Connect:
+### 🌐 Let's Connect:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ali.javed.hamza@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-hamza-dignodev)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/malevolent.hamza)
