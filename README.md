@@ -1,10 +1,10 @@
 # 💫 About Me:
-I'm Ali Hamza, a Computer Science student and Blockchain Developer passionate about building secure, decentralized systems. I focus on writing clean, efficient **Rust** code for Solana smart contracts using the Anchor framework. I enjoy solving complex problems in on-chain program design, security auditing, and Web3 integration. Always learning, always building.<br>
+I'm Ali Hamza, a Rust 🦀 and Blockchain Developer passionate about building secure, decentralized systems. I focus on writing clean, efficient **Rust** code for Solana smart contracts using the Anchor framework. I enjoy solving complex problems in on-chain program design, security auditing, and Web3 integration. Always learning, always building.<br>
 
 
 # 💻 Tech Stack:
 
-### 🦀 Languages & Core
+### 👨🏻‍💻 Languages & Core
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
