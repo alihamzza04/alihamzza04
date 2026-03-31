@@ -1,4 +1,4 @@
-#  I'm Ali Hamza
+#  I'm Ali Hamza,
 
 **Rust and Blockchain Developer** passionate about building secure, decentralized systems. I focus on writing clean, efficient Rust code for Solana smart contracts using the Anchor framework. I enjoy solving complex problems in on-chain program design, security auditing, and Web3 integration. Always learning, always building.<br>
 
