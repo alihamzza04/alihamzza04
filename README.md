@@ -6,7 +6,7 @@
 
 ##  Tech Stack:
 
-### 👨🏻‍💻 Languages & Core
+### <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> Languages & Core
 ![Rust](https://img.shields.io/badge/Rust-E34F26?style=for-the-badge&logo=rust&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 
@@ -28,12 +28,21 @@
 
 ---
 
+### 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/alihamzza04">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alihamzza04&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="alihamzza04's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=alihamzza04&theme=dark&hide_border=true&cache_seconds=86400" alt="alihamzza04's GitHub Streak" width="49%" />
+</p>
+<!-- <p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=alihamzza04&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ali Hamza's GitHub Trophies" />
+</p> -->
+
 <!--
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alihamzza04&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=alihamzza04&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alihamzza04&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![ALi Hamza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alihamzza4&bg_color=121212&color=f2f2f2&line=f9fbfb&point=56af0d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
+
 ###  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
